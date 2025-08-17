@@ -20,6 +20,7 @@ Then we train and evaluate multiple ML models: **Random Forest, Decision Tree, L
 	1. Extract the dataset.
 	2. Rename the folder from `genres` to `genres_original`.
 	3. Place it inside the project root folder
+
 ⚠️ One file was skipped due to format error:
 
 ```
@@ -51,7 +52,7 @@ pop         0.81      0.89      0.85        19
 reggae      0.81      0.77      0.79        22
 rock        0.47      0.45      0.46        20
 
-Accuracy                           0.80       200
+Accuracy                        0.80       200
 ```
 
 ---
